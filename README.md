@@ -63,3 +63,7 @@ Parameter utama yang mudah diganti tersedia di sel `CONFIG`, termasuk ukuran dom
 ## Catatan
 
 Data di project ini adalah data sintetis untuk demonstrasi metode. Untuk analisis lapangan nyata, ganti fungsi cuaca, peta penutup lahan, kondisi awal, dan parameter fisika dengan data sensor atau hasil kalibrasi lokal.
+
+## Lisensi
+
+Project ini dirilis dengan lisensi MIT. Lihat file `LICENSE` untuk detail.
